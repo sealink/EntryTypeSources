@@ -1,4 +1,4 @@
-# Entry Sources plugin for Craft
+# EntryType Sources plugin for Craft
 
 This plugin makes it possible to view your entries by their EntryType-based taxonomies, by adding category-based sources to entries’ source lists.
 
