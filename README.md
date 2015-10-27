@@ -10,5 +10,5 @@ To install EntryType Sources, follow these steps:
 2.  Go to Settings > Plugins from your Craft control panel and enable the EntryType Sources plugin.
 3.  Click on “Entry Sources” to go to the plugin’s settings page, and configure the plugin how you’d like.
 
-Forked from pixelandtonic/CategorySources
+Forked from pixelandtonic/CategorySources.
 Developed by Reactor15.com
