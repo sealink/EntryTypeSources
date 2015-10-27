@@ -4,7 +4,7 @@ This plugin makes it possible to view your entries by their EntryType-based taxo
 
 ## Installation
 
-To install Category Sources, follow these steps:
+To install EntryType Sources, follow these steps:
 
 1.  Upload the entrytypesources/ folder to your craft/plugins/ folder.
 2.  Go to Settings > Plugins from your Craft control panel and enable the EntryType Sources plugin.
@@ -12,4 +12,4 @@ To install Category Sources, follow these steps:
 
 Forked from pixelandtonic/CategorySources
 
-Developed by Reactor15
+Developed by Reactor15.com
