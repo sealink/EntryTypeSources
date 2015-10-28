@@ -1,6 +1,8 @@
 # EntryType Sources plugin for Craft CMS
 
-Makes it possible to view your entries by their EntryType adding EntryType sources grouped by section to entries’ source lists.
+Makes it possible to filter your entries by their EntryType in the CP. Adding EntryType sources grouped by section to the control panel entries’ sidebar (source lists).
+
+Usfel when you have different types of pages in a struture/channel.
 
 ## Installation
 
