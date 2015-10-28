@@ -2,7 +2,7 @@
 
 Makes it possible to filter your entries by their EntryType in the CP. Adding EntryType sources grouped by section to the control panel entries’ sidebar (source lists).
 
-Usfel when you have different types of pages in a struture/channel.
+Useful when you have different types of pages in a structure/channel.
 
 ## Installation
 
