@@ -5,7 +5,8 @@ class EntryTypeSourcesPlugin extends BasePlugin
 {
 	function getName()
 	{
-		return Craft::t('Entry Type Sources');
+		return Craft::t('A Entry Type Sources');
+		//A, looks like craft loads the plugins in alphabetical order :/
 	}
 
 	function getVersion()
